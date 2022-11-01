@@ -12,11 +12,11 @@
         "DalamudApiLevel": 7,
         "LoadPriority": 0,
         "IconUrl": "http://s3.amazonaws.com/gt7sp-prod/decal/20/05/05/4899943897939050520_1.png",
-        "DownloadLinkInstall": "https://github.com/Nik-Potokar/Plogons/raw/main/plugins/Astro/AstroReborn.zip",
+        "DownloadLinkInstall": "https://github.com/Nik-Potokar/Plogons/raw/main/Plugins/AstroReborn.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Nik-Potokar/Plogons/raw/main/plugins/Astro/AstroReborn.zip",
-        "DownloadLinkUpdate": "https://github.com/Nik-Potokar/Plogons/raw/main/plugins/Astro/AstroReborn.zip",
+        "DownloadLinkTesting": "https://github.com/Nik-Potokar/Plogons/raw/main/Plugins/AstroReborn.zip",
+        "DownloadLinkUpdate": "https://github.com/Nik-Potokar/Plogons/raw/main/Plugins/AstroReborn.zip",
         "DownloadCount": 0,
         "LastUpdated": "1666150871"
     }
