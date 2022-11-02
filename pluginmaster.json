@@ -1,21 +1,28 @@
 [
     {
-        "Author": "Aiczk(Original Creator), Aki(Updates)",
+        "Author": "Aickz, Aki",
         "Name": "Astro",
-        "Punchline": "Make Astro Simple to play",
-        "Description": "/astro for all the options",
+        "Punchline": "Makes Astro simple to play.",
+        "Description": "/Astro for all the options.",
         "Changelog": "Updated for 6.28",
         "InternalName": "Astro",
         "AssemblyVersion": "1.0.0.3",
         "RepoUrl": "https://github.com/Nik-Potokar/Astro",
         "ApplicableVersion": "any",
+        "CategoryTags": [
+            "ast"
+        ],
         "DalamudApiLevel": 7,
-        "LoadPriority": 0,
-        "IconUrl": "http://s3.amazonaws.com/gt7sp-prod/decal/20/05/05/4899943897939050520_1.png",
+        "IconUrl": "",
+        "ImageUrls": [
+            ""
+        ],
         "DownloadLinkInstall": "https://github.com/Nik-Potokar/Plogons/raw/main/Plugins/Astro/Astro.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/Nik-Potokar/Plogons/raw/main/Plugins/Astro/Astro.zip",
         "DownloadLinkUpdate": "https://github.com/Nik-Potokar/Plogons/raw/main/Plugins/Astro/Astro.zip",
-    }
+        "DownloadCount": 0,
+        "LastUpdate": "1667378683"
+    },
 ]
