@@ -4,7 +4,7 @@
         "Name": "Astro",
         "Punchline": "Makes Astro simple to play.",
         "Description": "/Astro for all the options.",
-        "Changelog": "Updated for 6.28",
+        "Changelog": "Updated for 6.3, Enjoy!",
         "InternalName": "Astro",
         "AssemblyVersion": "1.0.0.3",
         "RepoUrl": "https://github.com/Nik-Potokar/Astro",
@@ -12,7 +12,7 @@
         "CategoryTags": [
             "ast"
         ],
-        "DalamudApiLevel": 7,
+        "DalamudApiLevel": 8,
         "IconUrl": "",
         "ImageUrls": [
             ""
