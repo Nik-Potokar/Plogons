@@ -4,9 +4,9 @@
         "Name": "Astro",
         "Punchline": "Makes Astro simple to play.",
         "Description": "/Astro for all the options.",
-        "Changelog": "Updated for 6.3, Enjoy!",
+        "Changelog": "Updated for 6.4, Enjoy!",
         "InternalName": "Astro",
-        "AssemblyVersion": "1.0.0.3",
+        "AssemblyVersion": "1.0.0.4",
         "RepoUrl": "https://github.com/Nik-Potokar/Astro",
         "ApplicableVersion": "any",
         "CategoryTags": [
